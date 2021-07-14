@@ -38,21 +38,11 @@ h3 {
   font-style: oblique; }
 
 body {
-  background-color: peru; }
-
-nav {
-  color: greenyellow; }
-
-nav li:hover {
-  background-color: orangered;
-  color: yellowgreen; }
-
-nav li {
-  background-color: yellowgreen;
-  border: 1px orangered; }
+  background-color: lightyellow
+}
 
 .tarjeta {
-  background-color: yellowgreen; }
+background-color:yellowgreen ;}
 
 .boton {
   background-color: orangered;
@@ -269,6 +259,12 @@ a {
   }
 }
 @media (max-width:  360px){
-  .mobile  {width: 300px;height: 200px;}
-}
+  .mobile  {width: 300px;height: 200px;}}
 
+div.gracias {
+    background-color: orange;
+    color: green;
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -2,15 +2,15 @@ body{
     background-color: peru;
 }
 nav{
-    color:greenyellow;
+    color:green;
 }
 nav li:hover{
     background-color:orangered;
-    color:yellowgreen;
+    color:green;
     }
     
  nav li{
-        background-color: yellowgreen;
+        background-color: green;
         border:1px orangered;
  }
 .tarjeta {
@@ -48,4 +48,10 @@ h3{
 .FormularioBoton{
     color:yellowgreen;
 }
-
+div.principal {
+    background-color: yellowgreen;
+    color: white;
+  }
+.gracias {
+    background-color: orangered;
+}
