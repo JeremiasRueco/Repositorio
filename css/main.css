@@ -268,9 +268,9 @@ div.gracias {
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
 }
-@media (max-width:700px) and (min-width:500px) {
+@media (max-width:500px) and (min-width:200px) {
   ul.texto{
-     font-size: 12px;
+     font-size: 15px;
   }
 }
 div.gracias2 {
