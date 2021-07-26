@@ -285,3 +285,32 @@ div.gracias2 {
     text-align: center;
     font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;}
+
+div.almadulce{
+           background-color: salmon;
+           color: springgreen;
+           font-family: Georgia, 'Times New Roman', Times, serif;
+           text-align: center;
+          font-size: 40px;
+}
+div.alma2{
+  background-color: rgba(250, 146, 114, 0.986);
+  color: springgreen;
+  text-align: center;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.contenido{
+  width: 95vw;
+  display: flex;
+  flex-direction: column;        
+}
+div.contenido--elemento{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 1.5rem 1.5rem;
+}
+.contenido--texto{
+  width: 45vw;
+}
